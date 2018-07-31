@@ -1,2 +1,1 @@
-# learn-git
-My repo for learning git
+# learn-git README
